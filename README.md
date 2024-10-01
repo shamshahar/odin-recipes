@@ -1,4 +1,4 @@
-###Odin Recipe Project
+###Odin Recipe Project###
 
 The first project I start in the Odin Project.
 
