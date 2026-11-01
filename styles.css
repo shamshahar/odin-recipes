@@ -1,0 +1,17 @@
+body {
+  background-color: beige;
+  font-size: 18px;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.navigation {
+  background-color: white;
+  padding: 24px;
+}
+
+.navigation ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
