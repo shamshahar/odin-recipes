@@ -5,6 +5,10 @@ body {
   margin: 0 auto;
 }
 
+img {
+  width: 100%;
+}
+
 .navigation {
   background-color: white;
   padding: 24px;
